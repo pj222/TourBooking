@@ -1,0 +1,8 @@
+15:59:25.763 [main] INFO  resources.base - verified subtotal
+16:03:26.182 [main] INFO  resources.base - driver initialised
+16:03:33.844 [main] INFO  resources.base - verified subtotal
+16:03:52.374 [main] INFO  resources.base - reservation success text isYour booking status is Reserved
+16:03:52.433 [main] INFO  resources.base - verified success message
+16:07:08.611 [main] INFO  resources.base - driver initialised
+16:07:17.398 [main] INFO  resources.base - verified subtotal
+16:07:36.293 [main] INFO  resources.base - reservation success text isYour booking status is Reserved
