@@ -15,14 +15,14 @@
 
 - **Scope 1: Integration testing:**
   
-    **Pro**: These types of tests are helpful when you need to fetch some values from backend and see if they are correcly reflected on front end,in this scenarion we can check the prices.
+    **Pros**: These types of tests are helpful when you need to fetch some values from backend and see if they are correcly reflected on front end,in this scenarion we can check the prices.
     
     **Cons**: Early prototype is not possible.
 
 
 - **Scope 2: Functional testing / Error approach:**
     
-    **Pro**: For this scope you can verify if the front end works as expected using different techniques (positive/negative scenarios).
+    **Pros**: For this scope you can verify if the front end works as expected using different techniques (positive/negative scenarios).
   You can have different scenarios using the acceptance criteria.
   
     **Cons**:You can have a lot of scenarios and are might be difficult to cover.
@@ -30,7 +30,7 @@
 
 - **Scope 3: End-to-end testing:**
     
-    **Pro**: You can quickly do a health check of an application by testing imporatnt ene to end functionality.
+    **Pros**: You can quickly do a health check of an application by testing imporatnt ene to end functionality.
   
     **Cons**: Big application can have lot of imporatnt e2e scenarios which will be ultimately a lot to test.
 
